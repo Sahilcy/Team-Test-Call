@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VYNE - Private Voice & Real Connections",
+  "description": "A Discord-like real-time communication app featuring private voice rooms, access-code entries, and intelligent friend matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
